@@ -9,4 +9,3 @@ For example
 ```sh
 sudo docker run -p 80:80 -p 443:443 -p 9000:9000 -v /home/user/app:/basic/web raymondperminov/docker-nginx-php-yii
 ```
-/home/raymond/dev/my/dockerPull
